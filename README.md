@@ -1,2 +1,2 @@
-# angular_courses
-Angular courses
+# Angular courses
+## Compilation of the most popular and useful courses
